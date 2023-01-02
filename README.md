@@ -1,1 +1,1 @@
-# mnist-clothing-classification-using-neural-netowork-pytorch
+# mnist-clothing-classification-using-neural-network-pytorch
